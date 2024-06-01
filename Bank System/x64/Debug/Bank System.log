@@ -1,0 +1,79 @@
+﻿  Bank System.cpp
+D:\Programming\C++\Bank System\Bank System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsInputValidate.h(97,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsInputValidate.h(97,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsInputValidate.h(97,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(33,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(355,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(449,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(459,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(473,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\Bank System.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programming\C++\Bank System\Bank System\clsUtill.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsUsers.h(182,9): warning C4240: nonstandard extension used: access to 'clsUsers::stLoginRegistarRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+  D:\Programming\C++\Bank System\Bank System\clsUsers.h(47,9):
+  see declaration of 'clsUsers::stLoginRegistarRecord'
+  
+D:\Programming\C++\Bank System\Bank System\clsUsers.h(191,9): warning C4240: nonstandard extension used: access to 'clsUsers::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+  D:\Programming\C++\Bank System\Bank System\clsUsers.h(61,9):
+  see declaration of 'clsUsers::stTransferLog'
+  
+D:\Programming\C++\Bank System\Bank System\clsUsers.h(31,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsAddNewClient.h(27,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsReadClientInfo.h(26,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsCurrency.h(24,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsUpdateRate.h(13,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsCurrencyCalculator.h(39,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(311,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+D:\Programming\C++\Bank System\Bank System\clsBankClient.h(463,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\Programming\C++\Bank System\Bank System\clsUsers.h(338,1): warning C4715: 'clsUsers::save': not all control paths return a value
+  Bank System.vcxproj -> D:\Programming\C++\Bank System\x64\Debug\Bank System.exe
